@@ -1,3 +1,5 @@
+இதையும் பார்க்கவும்: [NF : Process : Business Process Inventory](https://docs.google.com/spreadsheets/d/1uzD1t51iG7-8qe2zQxCJlWJt4o9WnRIu3v0Ni34zke0/edit#gid=311308107)
+
 ## சேகரிப்பு வளர்ச்சி - Collection Development
 தெரிவுக் கொள்கையைக் (Selection policy/criteria) வடிவமைத்தல், வளங்களின் மூலங்களைக் கண்டறிதல் (Identifying source materials), வளங்களைப் பட்டியலிடுதல் (Cataloguing of sources), வளங்களைப் பெறுதல், உள்வாங்கல் (Acquisition & Accession), வளங்களை தகவல் மதிப்பு அடிப்படையிலும் தெரிவுக் கொள்கை அடிப்படையிலும் வகைப்படுத்தல் உட்பட்ட உப செயாக்கங்களை இந்தச் செயலாக்கம் கொண்டுள்ளது.  
  
